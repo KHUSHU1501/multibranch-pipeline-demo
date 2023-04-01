@@ -1,2 +1,2 @@
-# multibranch-pipeline-demo
-Jenkins Multibranch Pipeline Example Repo 
+# PRO690 Assignment-2 Feature Branch
+Jenkins Multibranch Pipeline Example Repo
